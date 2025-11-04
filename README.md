@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Gradient Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Jagmohan%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Shubham%20Prajapat%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
 </p>
 
 <!-- ✨ Animated Typing Tagline -->
@@ -53,11 +53,8 @@
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 </p>
 
 ### 🌐 Web Technologies
@@ -82,9 +79,9 @@
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -104,10 +101,10 @@
 
 ---
 
-#### 🛒 Shopping24 (E-Commerce Platform)
-[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EcomerceFrontend)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/)
-
+#### 🛒Study Track (Placement Prepration Platform)
+[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)]((https://github.com/shubha896/Study-track))  
+<!-- [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/)
+-->
 A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
 
 - 🌟 **Key Features:**
@@ -117,44 +114,9 @@ A complete **e-commerce web application** where users can browse products, add t
   - **Admin dashboard** for product & order management
   - Responsive design for desktop & mobile
 
-- 🛠 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • Redux • TailwindCSS • JWT Authentication
+- 🛠 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • Redux • TailwindCSS 
 
 ---
-
-#### 🎓StudyAdda (Ed-Tech Platform)
-
-[![Repo](https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EdTechFrontEnd)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studyaddal.netlify.app/)
-
-A modern **EdTech platform** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
-
-- 🌟 **Key Features:**
-  - Interactive **course dashboard** for students & instructors
-  - **Authentication & authorization** for different user roles
-  - **Responsive UI** using React.js &TailwindCSS
-  - Integration with **REST APIs** for dynamic data
-  - User-friendly **course enrollment & tracking**
-
-- 🛠 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • TailwindCSS • JWT Authentication
-
----
-
-#### 💼ApplySeeker (Job Plateform)
-[![Repo](https://img.shields.io/badge/GitHub-ApplySeekerFrontend-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/ApplySeekerFrontend)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://applyseeker.netlify.app/)
-
-A **Job Platform** designed to help job seekers find and apply to opportunities easily while enabling recruiters to post and manage job listings.
-
-- 🌟 **Key Features:**
-  - User authentication for **job seekers & recruiters**
-  - **Job posting & application management**
-  - **Responsive, dynamic dashboards** for recruiters and candidates
-  - Integration with **REST APIs** for real-time updates
-  - Built for scalability and smooth user experience
-
-- 🛠 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • TailwindCSS • JWT Authentication
-
-
 
 ### 📊 GitHub Stats
 <p align="center">
