@@ -102,19 +102,18 @@
 ---
 
 #### 🛒Study Track (Placement Prepration Platform)
-[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)]((https://github.com/shubha896/Study-track))  
+[![Repo](https://img.shields.io/badge/GitHub-StudyTrack-181717?style=for-the-badge&logo=github)]((https://github.com/shubha896/Study-track))  
 <!-- [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/)
 -->
-A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
+Study Track is a web-based platform designed to provide free study materials to college students, 
+helping them prepare for placements. The platform aims to simplify and streamline the learning 
+process by offering structured courses, study resources. 
+
 
 - 🌟 **Key Features:**
-  - Full **product catalog** with categories & search
-  - **User authentication & profile management**
-  - **Shopping cart & checkout** with secure payment integration
-  - **Admin dashboard** for product & order management
-  - Responsive design for desktop & mobile
-
-- 🛠 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • Redux • TailwindCSS 
+  - campus-placement support via their SaaS product “Optimus” that handles assessments, dashboards, and placement tracking.
+  - coding problem Page , Apptitude page
+- 🛠 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • TailwindCSS 
 
 ---
 
