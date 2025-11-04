@@ -1,3 +1,101 @@
+<!-- 🌟 Animated Gradient Header -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Jagmohan%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+</p>
+
+<!-- ✨ Animated Typing Tagline -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&center=true&vCenter=true&width=700&height=60&color=FF6B6B%2CFFD93D%2C6BCB77%2C4D96FF&lines=Full+Stack+Developer+%26+UI%2FUX+Engineer+%F0%9F%92%BB;Building+Design+Systems+%26+Beautiful+Interfaces+%E2%9C%A8;Lifelong+Learner+%26+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨💻 About Me
+
+📍 Based in **Katni, Madhya Pradesh, India**  
+💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB • Express.js • React.js • Node.js  
+🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
+🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
+🚀 Experienced in **frontend architecture, product design, and UI engineering**, with an eye for both **performance and aesthetics**.  
+⚡ Love mentoring aspiring developers and sharing knowledge about **modern JavaScript ecosystems**.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jagmohan-rai1/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://jagmohan123.github.io/New-PortFolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:jagmohanrai082@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 💼 Work Experience
+
+🟢 **Full Stack Trainer** @ Dr. Reddy’s Foundation  
+🔵 **Technical Trainer** @ MGI  
+🔵 **Member Technical** @ ADP Pvt. Ltd.  
+🔴 **Project Engineer Intern** @ Wipro Pvt. Ltd.  
+🔴 **Graduate Engineer Trainee** @ HCL Pvt. Ltd.
+
+---
+
+## 🧰 Tech Toolbox
+
+### 🏗️ Core Computer Science
+<p>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database%20Management%20Systems%20(DBMS)-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms%20(DSA)-green?style=for-the-badge" />
+</p>
+
+### 👨💻 Languages
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### 🌐 Web Technologies
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🛠️ Developer Tools
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Deployment
 <p>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -79,238 +177,3 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
 ### ⚡ Fun Fact
 > “Code. Debug. Repeat. 🚀”
 
-
-
-Resume Code->
-%-------------------------
-% Resume in Latex
-% Author : Jake Gutierrez
-% Based off of: https://github.com/sb2nov/resume
-% License : MIT
-%------------------------
-
-\documentclass[letterpaper,11pt]{article}
-
-\usepackage{latexsym}
-\usepackage[empty]{fullpage}
-\usepackage{titlesec}
-\usepackage{marvosym}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{verbatim}
-\usepackage{enumitem}
-\usepackage[hidelinks]{hyperref}
-\usepackage{fancyhdr}
-\usepackage[english]{babel}
-\usepackage{tabularx}
-\usepackage{fontawesome5}
-\usepackage{multicol}
-\setlength{\multicolsep}{-3.0pt}
-\setlength{\columnsep}{-1pt}
-\input{glyphtounicode}
-
-
-%----------FONT OPTIONS----------
-% sans-serif
-% \usepackage[sfdefault]{FiraSans}
-% \usepackage[sfdefault]{roboto}
-% \usepackage[sfdefault]{noto-sans}
-% \usepackage[default]{sourcesanspro}
-
-% serif
-% \usepackage{CormorantGaramond}
-% \usepackage{charter}
-
-
-\pagestyle{fancy}
-\fancyhf{} % clear all header and footer fields
-\fancyfoot{}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
-
-% Adjust margins
-\addtolength{\oddsidemargin}{-0.6in}
-\addtolength{\evensidemargin}{-0.5in}
-\addtolength{\textwidth}{1.19in}
-\addtolength{\topmargin}{-.7in}
-\addtolength{\textheight}{1.4in}
-
-\urlstyle{same}
-
-\raggedbottom
-\raggedright
-\setlength{\tabcolsep}{0in}
-
-% Sections formatting
-\titleformat{\section}{
-  \vspace{-4pt}\scshape\raggedright\large\bfseries
-}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
-
-% Ensure that generate pdf is machine readable/ATS parsable
-\pdfgentounicode=1
-
-%-------------------------
-% Custom commands
-\newcommand{\resumeItem}[1]{
-  \item\small{
-    {#1 \vspace{-2pt}}
-  }
-}
-
-\newcommand{\classesList}[4]{
-    \item\small{
-        {#1 #2 #3 #4 \vspace{-2pt}}
-  }
-}
-
-\newcommand{\resumeSubheading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & \textbf{\small #2} \\
-      \textit{\small#3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeSubSubheading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \textit{\small#1} & \textit{\small #2} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeProjectHeading}[2]{
-    \item
-    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & \textbf{\small #2}\\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
-
-\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
-\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
-
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
-
-%-------------------------------------------
-%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-\begin{document}
-
-%----------HEADING----------
-% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
-%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
-% \end{tabular*}
-
-\begin{center}
-    {\Huge \scshape ABC Rai} \\ \vspace{1pt}
-Belgum, Karnataka 591263 \\ \vspace{1pt}
-    \small \raisebox{-0.1\height}\faPhone\ 9662346387 ~ \href{mailto:abc@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{abc@gmail.com}} ~ 
-    \href{https://www.linkedin.com/in/abc@gmail//}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/abc-kanagale-26712a212}}  ~
-    \href{https://github.com/kevali7826}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/kevali7826}}
-    \vspace{-8pt}
-\end{center}
-
-
-%-----------EDUCATION-----------
-\section{Education}
-  \resumeSubHeadingListStar
-    \resumeSubheading
-      {Techno India NJR Institute of Technology}{Sep. 2022 --Pursuing}
-      {Bachelor of Technology in Computer Science {Percentage-9.42}}{Udaipur, Rajasthan}
-  \resumeSubHeadingListEnd
-    \resumeSubheading
-      {G.I.Bagewadi college nippani }{May. 2019 --May. 2020}
-      {Higher Secondary School}{Belgum, Karnatak}
-  \resumeSubHeadingListEnd
-
-%-----------PROGRAMMING SKILLS-----------
-\section{Technical Skills}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-      \textbf{Programming Languages}{: C/C++, Java.} \\
-     \textbf{Devops Tools }{: Git, Jenkins, Docker, Kubernetes, AWS, CI/CD, Terraform, Prometheus, Grafana.} \\
-     \textbf{Frameworks \& Libraries}{: React.js, Node.js, Express.js, Tailwind CSS, Bootstrap.} \\
-     \textbf{Databases and Subjects}{: MySQL, MongoDB, OPPS, DBMS.\\}
-    \textbf{Developer Tools}{: Git, GitHub, Postman, Figma.\\}
-
- \end{itemize}
- \vspace{-16pt}
-
-
-%-----------EXPERIENCE-----------
-\section{Internship Experience}
-  \resumeSubHeadingListStart
-
-     \resumeSubheading
-      {NJR}{March 2025 -- May 2025}
-      {Devops Developer Intern}{Jaipur, Rajasthan}
-      \resumeItemListStart
-        \resumeItem{ Successfully completed a 60-day DevOps training program covering essential tools and practices for automation, CI/CD, and cloud deployment.}
-        \resumeItem{Gained hands-on experience with tools like Git, Docker, Jenkins, Kubernetes, AWS for real-world DevOps workflows.}
-        \resumeItem{Learned to automate software build, test, and deployment processes using CI/CD pipelines.}
-        % \resumeItem{Worked with containerization (Docker) and orchestration (Kubernetes) to manage scalable applications.}
-      \resumeItemListEnd
-
-    \resumeSubheading
-      {Grras}{Aug 2024 -- Oct 2024}
-      {MERN Stack Developer Intern}{Jaipur, Rajasthan}
-      \resumeItemListStart
-        \resumeItem{Completed an intensive 90-day training program on the MERN Stack (MongoDB, Express.js, React.js, Node.js) with hands-on project development.}
-        \resumeItem{Built full-stack web applications integrating front-end (React.js) and back-end (Node.js, Express) components with MongoDB databases..}
-        \resumeItem{Gained practical experience in RESTful API development, authentication (JWT), and CRUD operations..}
-        % \resumeItem{Collaborated on team projects using Git, GitHub, and Agile methodologies to simulate real-world development environments.}
-      \resumeItemListEnd
-
-
-
-
-
-  \resumeSubHeadingListEnd
-\vspace{-16pt}
-
-%-----------PROJECTS-----------
-\section{Projects}
-    \vspace{-5pt}
-    \resumeSubHeadingListStart
-      \resumeProjectHeading
-          {\textbf{DevOps CI/CD Pipeline Project} $|$ \emph{}}{May 2025}
-          \resumeItemListStart
-            \resumeItem{ Automated CI/CD pipeline using Jenkins to build, test, scan, and deploy Dockerized applications to Kubernetes.}
-            \resumeItem{➡️Deployed apps using Kubernetes manifests with RBAC-based Jenkins access, ensuring secure and scalable deployment.}
-            \resumeItem{➡️ Configured Prometheus and Grafana for real-time monitoring and visualization of system metrics and alerts.}
-            \resumeItem{➡️Technology -: Jenkins, Git, Docker, Kubernetes, SonarQube, Trivy, Prometheus, and Grafana.}
-          \resumeItemListEnd
-          \vspace{-13pt}
-      \resumeProjectHeading
-          {\textbf{Shopping24} $|$ \emph{}}{July 2024}
-          \resumeItemListStart
-            \resumeItem{Designed and developed a fully functional Ecommerce web application from scratch, leveraging modern web technologies and following best practices (MVC architecture).}
-            \resumeItem{ Implemented features such as account creation/update, profile management. Admin can create, edit, and delete categories, list items under specific categories, add items, and edit and delete items. Users can add items to a cart, buy items using Razorpay payment gateways, and view their order history.}
-            \resumeItem{➡️ Implemented user authentication using JWT tokens, ensuring secure access to the web application.}
-            \resumeItem{Technologies Used: React.js, Express.js, Node.js, MongoDB, Tailwind CSS.}
-          \resumeItemListEnd
-          \vspace{-13pt}
-          \resumeProjectHeading
-
-
-    \resumeSubHeadingListEnd
-\vspace{-15pt}
-
-
-
-
-
-%-----------INVOLVEMENT---------------
-\section{Leadership / Extracurricular}
-    \resumeSubHeadingListStart
-        \resumeSubheading{Toastmaster Club Member }{April 2024 – Present}{Member}{Rajsthan Technical University}
-            \resumeItemListStart
-                \resumeItem{Hackathon Volunteer (2023) Actively participated as a volunteer in organizing a college hackathon event. Responsible for helping with logistics, participant coordination, and ensure smooth event flow.}
-            \resumeItemListEnd
-    \resumeSubHeadingListEnd
-\end{document}
